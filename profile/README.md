@@ -14,6 +14,20 @@
   clean, responsive web interface.
 
   ---
+  
+   ## Team
+
+  |     Name           |   Role               |                        GitHub                             |
+  |------------------  |----------------------|-----------------------------------------------------------|
+  | Konstantin Nenov   | Frontend             | [@konstantinNenov](https://github.com/konstantinNenov)    |
+  | Djan Fuchidji      | Backend              | [@Djan9999](https://github.com/Djan9999)                  |
+  | Iliana Ilieva      | Lean Canvas + Design | [@iliana-ilieva](https://github.com/iliana-ilieva)        |
+  | Kaloyan Kolev      | Documentaion         | [@kalokolev](https://github.com/kalokolev)                |
+  | Kaloyan Karpachev  | Deployment           | [@kkarpachevv-star](https://github.com/kkarpachevv-star)  |
+  | Vasil Ivanov       | Documentation        |                                                           |
+  
+
+  --
 
   ## Features
 
