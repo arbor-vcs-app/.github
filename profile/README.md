@@ -76,9 +76,10 @@
 
   | Document | Description |
   |---|---|
-  | [User Manual](./docs/Arbor%20Version%20Control%20System%20-%20User%20Manual%20-%20v1.1.pdf) | End-user guide covering all features and roles |
-  | [Technical Documentation](./docs/Technical%20Documentation.pdf) | System design, API reference, and implementation details |
-  | [Architecture Diagram](./docs/Architecture%20Diagram.pdf) | Visual overview of the system architecture |
+  | [User Manual](./docs/Arbor%20Version%20Control%20System%20-%20User%20Manual%20-%20v1.1.pdf) | End-user guide covering all features and roles
+  |
+  | [Technical Documentation](./docs/Arbor%20Version%20Control%20System%20-%20Technical%20Documentation%20-%20v.1.1.pdf) | System design, API reference, and implementation details |
+  | [Architecture Diagram](./docs/Proekt-architecture.drawio) | Visual overview of the system architecture |
 
   ---
 
