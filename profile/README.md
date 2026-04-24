@@ -74,12 +74,12 @@
 
   ## Documentation
 
-  | Document | Description |
-  |---|---|
-  | [User Manual](docs/Arbor Version Control System - User Manual - v1.1.pdf) | End-user guide covering all features and roles
-  |
-  | [Technical Documentation](./docs/Arbor%20Version%20Control%20System%20-%20Technical%20Documentation%20-%20v.1.1.pdf) | System design, API reference, and implementation details |
-  | [Architecture Diagram](./docs/Proekt-architecture.drawio) | Visual overview of the system architecture |
+  |                                                                                     Document                                                                                     |                                     Description                                           |
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+  | [User Manual](https://github.com/arbor-vcs-app/arbor-vcs-overview/blob/main/docs/Arbor%20Version%20Control%20System%20-%20User%20Manual%20-%20v1.1.pdf)                          | End-user guide covering all features and roles                                            |
+  | [Technical Documentation](https://github.com/arbor-vcs-app/arbor-vcs-overview/blob/main/docs/Arbor%20Version%20Control%20System%20-%20Technical%20Documentation%20-%20v.1.1.pdf) | System design, API reference, and implementation details                                  |
+  | [Architecture Diagram](https://github.com/arbor-vcs-app/arbor-vcs-overview/blob/main/docs/Proekt-architecture.drawio)                                                            | Visual overview ofthe system architecture — open with [draw.io](https://app.diagrams.net) |
+  | [Lean Canvas](https://github.com/arbor-vcs-app/arbor-vcs-overview/blob/main/docs/Lean%20Canvas.png)                                                                              | Business model overview                                                                   |
 
   ---
 
