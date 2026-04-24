@@ -24,8 +24,7 @@
   | Iliana Ilieva      | Lean Canvas + Design | [@iliana-ilieva](https://github.com/iliana-ilieva)        |
   | Kaloyan Kolev      | Documentaion         | [@kalokolev](https://github.com/kalokolev)                |
   | Kaloyan Karpachev  | Deployment           | [@kkarpachevv-star](https://github.com/kkarpachevv-star)  |
-  | Vasil Ivanov       | Documentation        |                                                           |
-  
+  | Vasil Ivanov       | Architecture Diagram | [@VasilIvanov61](https://github.com/VasilIvanov61)        |
 
   --
 
