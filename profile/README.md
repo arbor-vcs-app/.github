@@ -72,6 +72,16 @@
 
   ---
 
+  ## Documentation
+
+  | Document | Description |
+  |---|---|
+  | [User Manual](./docs/Arbor%20Version%20Control%20System%20-%20User%20Manual%20-%20v1.1.pdf) | End-user guide covering all features and roles |
+  | [Technical Documentation](./docs/Technical%20Documentation.pdf) | System design, API reference, and implementation details |
+  | [Architecture Diagram](./docs/Architecture%20Diagram.pdf) | Visual overview of the system architecture |
+
+  ---
+
   ## Architecture
 
   See [`docs/`](./docs/) for the full architecture diagram and technical documentation.
