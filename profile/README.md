@@ -3,7 +3,7 @@
   A web-based document management platform with structured version control, role-based access, and a review workflow
   for teams.
 
-  Built as a university project and deployed on Google Cloud Platform.
+  Built as a university project and deployed on Google Cloud Platform & Vercel.
 
   ---
 
